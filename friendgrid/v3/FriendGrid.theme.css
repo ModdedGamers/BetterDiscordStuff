@@ -1,4 +1,4 @@
-/*//META{"name":"Friend Grid","description":"A lightweight mini-theme that changes the friends list into a card style layout.","author":"Tropical","version":"3", "website":"https://bit.ly/derealised", "source":"https://tropix126.github.io/BetterDiscordStuff/friendgrid/v3/base.css"}*//**/
+/*//META{"name":"Friend Grid","description":"A lightweight mini-theme that changes the friends list into a card style layout.","author":"Tropical","version":"3.1", "website":"https://bit.ly/derealised", "source":"https://tropix126.github.io/BetterDiscordStuff/friendgrid/v3/base.css"}*//**/
 /*
  /$$$$$$$$        /$$                           /$$  /$$$$$$            /$$       /$$
 | $$_____/       |__/                          | $$ /$$__  $$          |__/      | $$
@@ -10,4 +10,4 @@
 |__/   |__/      |__/ \_______/|__/  |__/ \_______/ \______/ |__/      |__/ \_______/
 */
 /*Import Base CSS File*/
-@import url('https://tropix126.github.io/BetterDiscordStuff/friendgrid/v3/css/base.css');
+@import url('https://raw.githubusercontent.com/ModdedGamers/BetterDiscordStuff/master/friendgrid/v3/css/base.css');
